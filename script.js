@@ -11,6 +11,6 @@ let changeColor = () => {
     // )
     document.body.style.backgroundColor = randomColor;
 }
-
+//fdkbgpokvko
 btn.addEventListener('click', changeColor);
 window.addEventListener('load', changeColor);
